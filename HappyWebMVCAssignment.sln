@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyWebMVCAssignment", "HappyWebMVCAssignment\HappyWebMVCAssignment.csproj", "{CB930F1A-767C-42BE-ADF6-C34B67ADFECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB930F1A-767C-42BE-ADF6-C34B67ADFECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB930F1A-767C-42BE-ADF6-C34B67ADFECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB930F1A-767C-42BE-ADF6-C34B67ADFECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB930F1A-767C-42BE-ADF6-C34B67ADFECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {093C1EBF-6495-4343-9377-9F953EF4BCBE}
+	EndGlobalSection
+EndGlobal
